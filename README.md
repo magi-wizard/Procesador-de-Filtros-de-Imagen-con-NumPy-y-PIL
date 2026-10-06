@@ -1,1 +1,2 @@
-# Procesador-de-Filtros-de-Imagen-con-NumPy-y-PIL
+# Dia4
+Procesador de Filtros de Imagen con NumPy y PIL
